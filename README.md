@@ -40,7 +40,7 @@ To complete the assignment, start with the provided `TextEditor` class and imple
         void undo(std::string& str);
     };
 
-You may add any private member variables and helper functions that you like.
+You may add any private member variables and helper functions that you like. Use the provided test cases to infer the other command classes and their public methods.
 
 In this assignment, you may use stack or queue ADTs but no arrays, vectors, or linked lists. You may write your own stack and queue ADTs or you can use the ones provided by the STL.
 
