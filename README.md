@@ -2,7 +2,7 @@
 
 Early text editors were nothing like the sophisticated graphical applications that we see today. Programs such as [ed](https://en.wikipedia.org/wiki/Ed_(text_editor)) and [edlin](https://en.wikipedia.org/wiki/Edlin) provided only a few basic commands to insert and delete text, or search and replace it.
 
-In this assigment, you are to implement a text editor class that provides features similar to these early tools. It should offer the following commands:
+In this assignment, you are to implement a text editor class that provides features similar to these early tools. It should offer the following commands:
 
 * insert text at a given position
 * delete text in a given range
